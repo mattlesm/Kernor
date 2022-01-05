@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "route": "/races/nains",
+        "name": "Nains",
+        "histoires": [ 
+            {
+                "id": 1,
+                "titre": "La Paix de l’Étoile",
+                "texte": [
+                    "Durant la Guerre Naine, dite de la Tourte aux Champignons, déclenchée par le vol de la célèbre recette des cuisines royales d’Adamante par un diplomate nain de Coruscante, les terres de Roc d’Or, autrefois encore un champ de bataille vide de toutes cités, virent les deux armées naines se faire face pour ce qui devait être le plus grand conflit de l’Histoire Naine.",
+                    "Mais par une coïncidence des plus grandioses, une éclipse totale se produisit alors, et, durant ces instants de noirceur, une étoile de feu s’effondra du ciel en passant par-dessus les deux armées. Les témoins de l’époque racontent encore que l’étoile avait la forme d’un œuf doré. Au regard de cet évènement, une trêve eut lieu entre les deux camps et les souverains nains se rassemblèrent accompagnés de leurs prêtres et de plusieurs membres de la noblesse. Ceux-ci décidèrent que la guerre devait prendre fin car l’événement ne pouvait être qu’un message des Dieux. L’étoile en forme d’oeuf représentait Myr appelant à la paix, tandis que l’éclipse appelait à une union d’amour pour mettre un terme au conflit. Les deux jeunes souverains nains décidèrent alors qu’un mariage aurait lieu lorsque leurs futurs enfants auraient atteint l’âge de raison.",
+                    "La paix, bien que durable, est toujours ténue entre ces deux royaumes car leurs divergences sont nombreuses et leurs conflits, millénaires. Néanmoins, cette période de paix de près d’un siècle à permis l’essor économique de toute la région de Roc d’Or avec la fondation de nombreuses cités et villages dont la survie ne repose que sur la paix entre les royaumes nains des montagnes…"
+                ]
+            }
+        ]
+    }
+]

@@ -47,7 +47,7 @@
       return {
         items: [
           { title: 'PANTHÉON', icon: 'mdi-atom-variant', route:'/pantheon' },
-          { title: 'HISTOIRE', icon: 'mdi-book-open-page-variant-outline', route: '/histoire' },
+          { title: 'HISTOIRE', icon: 'mdi-book-open-page-variant-outline', route: '/races' },
           { title: 'MAPS', icon: 'mdi-map-legend', route: '/maps' },
         ]
       }

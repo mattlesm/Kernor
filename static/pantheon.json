@@ -159,5 +159,32 @@
             "On raconte ainsi que c’est au travers de Kastia que la Déesse Reine Marbh parvient à instiller les conflits et malheurs sur le continent. Néanmoins, Kastia est le Divin ayant permis de mettre un terme au conflit contre les élémentaires en retournant les Genasii contre leurs maîtres. Il aurait ensuite pris un malin plaisir à déclencher un conflit pour les éliminer. Les prêtres et cultistes de Kastia, bien que cachés dans la population, font tout leur possible pour instiller le chaos et, pour se faire, n’hésitent pas à préparer leur ascension en société pendant plusieurs années voire décennies pour balayer le plus d’ordres et de civilisations possibles une fois leurs plans mis en place.",
             "Qui sait, peut-être que tous les malheurs de Kernor sont causés par ces trouble-fêtes derrière les rideaux de l’Histoire…"
         ]
+    },
+    {
+        "id": 13,
+        "route": "/pantheon/eolas",
+        "name": "Eòlas",
+        "surname": "Le Messager",
+        "alignment": "(NG)",
+        "symbol": "Une plume en or",
+        "element": "Le Savoir",
+        "description": [
+            "Le Dieu des Connaissances Eòlas a été forgé par Madainn afin d’être le Messager des Plans d’Existence et rapporter tous les évènements y ayant lieu au Père de l’Aube. Son savoir extrêmement étendu lui permet même de prévoir les choses à venir et la magie divinatoire du jeune Dieu Arkhan serait inspirée des capacités préconscientes de son père. Bien que meurtri par la perte d’un fragment de sa Pierre Divine, il accueilli son enfant le Dieu Arkhan avec beaucoup de bonheur, ce qui surprit les autres Dieux. Ravi de pouvoir former l’esprit du Dernier Dieu, il partagea avec lui le plus de connaissances possibles et lui montra les différents plans d’existence.",
+            "Après la chute de la Tour des Dieux, coincé au sein du Royaume Divin, le Dieu Eòlas est entré dans une transe éternelle afin de pouvoir continuer à observer les différents plans et en relater les évènements aux autres Dieux. Le Messager est souvent vénéré par les érudits et autres savants pour qui le Dieu est une source de savoir infinie à qui sait correctement interpréter ses visions. La Grande Bibliothèque du Sultanat de Lokhlainn est ainsi l’un des plus grands temples dédiés à Eòlas."
+        ]
+    },
+    {
+        "id": 14,
+        "route": "/pantheon/laghe",
+        "name": "Laghè",
+        "surname": "Le Gardien",
+        "alignment": "(LN)",
+        "symbol": "Une clé en or",
+        "element": "L'Ordre",
+        "description": [
+            "Laghè, le Dieu Gardien, a été forgé par Madainn afin de maintenir l’ordre Divin au sein des Plans d’Existence. Accompagné de différents êtres célestes, pour mener à bien sa mission, il parvint à maintenir l’ordre au cours des premiers instants des vies mortelles ainsi qu’à réduire à néant les ambitions des créatures d’Outre-Monde et Élémentaires souhaitant s’en prendre aux autres plans.",
+            "Cependant, après le vol par Thyella d’un fragment de sa Pierre Divine, il ne devint qu’une coquille presque entièrement vidée de son pouvoir divin. On raconte que c’est suite à cela que le chaos pris forme au sein des plans et aurait conduit à tous les événements tragiques ayant suivi : Guerre contre les Elémentaires, Guerres des Mortels de Kernor, Chute de la Tour des Dieux, Purge des Genasii, Perte des Reliques d’Or et corruptions rampantes. Les théologiens s’accordent pour dire que les Plans se dirigent vers un état de Chaos total au fur et à mesure que le pouvoir de Laghè se détériore.",
+            "Peu après la “mort” du Gardien, les célestiaux ont tenté de conserver l’ordre entre les plans en occupant une portion de leur territoire. Ainsi, dans le plan matériel, ces êtres fondèrent la Sainte Cité de Seratrya dédiée à la vénération de tous les Dieux. Mais au fur et à mesure des générations, loin de leur Royaume Divin, les célestiaux ont peu à peu été consumés par le Chaos et ont perdu une partie de leur lien spirituel. Cette corruption culmina avec l’effondrement de Seratrya dans les flots il y a plusieurs siècles que d’aucuns disent être une punition divine envers la Reine de la Sainte Cité ayant sombré dans la folie. Certains descendants de Seratrya ont réussi à survivre et ont formé des colonies plus sporadiques au sein de Kernor. La Cité Elfique d’Ambreport est l’un des derniers bastions de vénération du Dieu Gardien Laghè."
+        ]
     }
 ]

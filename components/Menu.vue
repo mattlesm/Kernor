@@ -6,7 +6,12 @@
       color=#14213D
       dark
     >
-      <h1>Kernor</h1>
+      <a
+      class="title"
+        :href="item.route"
+      >
+        <h1>{{ item.title }}</h1>
+      </a>
 
       <v-list>
         <v-list-item
@@ -37,6 +42,9 @@
     font-family: 'Cinzel Decorative', cursive;
     font-size: 45px;
   }
+  .title {
+    text-decoration: none;
+  }
 </style>
 
 <script>
@@ -49,7 +57,11 @@
           { title: 'PANTHÉON', icon: 'mdi-atom-variant', route:'/pantheon' },
           { title: 'HISTOIRE', icon: 'mdi-book-open-page-variant-outline', route: '/races' },
           { title: 'MAPS', icon: 'mdi-map-legend', route: '/maps' },
-        ]
+        ],
+        item : {
+          title:'Kernor',
+          route: '/'
+        }
       }
     }
   };

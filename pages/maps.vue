@@ -24,7 +24,7 @@
                                         plain
                                         x-large
                                         class="overlay_button"
-                                        @click="overlay = !overlay"
+                                        @click="openOverlay(item.path)"
                                     >
                                         {{ item.title }}
                                     </v-btn>
@@ -76,19 +76,16 @@
         return {
             items: [
                 { id: 1, title: "Kernor", path: require('@/assets/Kernor.jpg')},
-                { id: 2, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 3, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 4, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 5, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 6, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 7, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 8, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 9, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 10, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')},
-                { id: 11, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')}
+                { id: 2, title: "Roc d'Or", path: require('@/assets/Roc_dOr.jpg')}
             ],
             overlay: false,
-            path: require('@/assets/Kernor.jpg')
+            path: ""
+        }
+    },
+    methods: {
+        openOverlay(newPath) {
+            this.path = newPath,
+            this.overlay = !this.overlay
         }
     }
   };
